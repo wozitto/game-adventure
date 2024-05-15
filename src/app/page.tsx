@@ -7,7 +7,7 @@ import {
   CardHeader,
   CardContent,
   Card,
-} from "@/ui/components/CardComponent";
+} from "@/ui/components/Card";
 import Link from "next/link";
 import { HIGH_SCORE_KEY } from "@/constants/index";
 
