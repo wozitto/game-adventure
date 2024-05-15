@@ -2,44 +2,64 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+.heal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: skyblue;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9999;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+@keyframes heal {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  33.33%,
+  66.67% {
+    opacity: 0.2;
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
+.damage-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9999;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
-
-@keyframes shake {
+@keyframes damage {
   0% {
-    transform: translate(0, 0);
-  }
-  25% {
-    transform: translate(-10px, 10px);
+    opacity: 0;
   }
   50% {
-    transform: translate(10px, -10px);
-  }
-  75% {
-    transform: translate(-10px, 10px);
+    opacity: 0.5;
   }
   100% {
-    transform: translate(0, 0);
+    opacity: 0;
   }
+}
+
+@keyframes slide-in-right {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.5s ease-out;
 }

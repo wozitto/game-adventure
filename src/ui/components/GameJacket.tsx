@@ -15,7 +15,7 @@ type GameJacketProps = {
 export const GameJacket: React.FC<GameJacketProps> = ({ game }) => {
   return (
     <div
-      className="absolute transform hover:scale-110 transition-transform duration-200 ease-in-out"
+      className="absolute transform transition-transform duration-200 ease-in-out"
       style={{
         left: game.x,
         top: game.y,
