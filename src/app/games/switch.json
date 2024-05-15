@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "image": "/the-legend-of-zelda-tearkin.png",
+    "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+    "description": "果てなき冒険は、大空へ広がる。本作は、広大なオープンワールドを舞台に繰り広げられるアクションアドベンチャー。",
+    "productionLink": "https://www.nintendo.com/jp/zelda/totk/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/-MEo1tGalr0?si=C4MKJQd3YwmZERst",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 2,
+    "image": "/the-legend-of-zelda-btow.png",
+    "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+    "description": "この冒険には、「決められた道筋」というものは存在しません。すべてはあなたの判断、行動次第で、冒険の行く末が決まります。",
+    "productionLink": "https://www.nintendo.com/jp/zelda/botw/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/OMw-xmBEWuE?si=lGEY3s1y4qN62fn9",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 3,
+    "image": "/pokemon-scarlet.png",
+    "title": "ポケットモンスター スカーレット",
+    "description": "『ポケットモンスター スカーレット・バイオレット』では、オープンワールドで豊かに表現された世界を、自由に冒険することができます。",
+    "productionLink": "https://www.pokemon.co.jp/ex/sv/ja/",
+    "youtubeUrl": "https://www.youtube.com/embed/IKggN13crog?si=rAkdIyJKO2GSc0_V",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 4,
+    "image": "/pokemon-violet.png",
+    "title": "ポケットモンスター バイオレット",
+    "description": "『ポケットモンスター スカーレット・バイオレット』では、オープンワールドで豊かに表現された世界を、自由に冒険することができます。",
+    "productionLink": "https://www.pokemon.co.jp/ex/sv/ja/",
+    "youtubeUrl": "https://www.youtube.com/embed/IKggN13crog?si=rAkdIyJKO2GSc0_V",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 5,
+    "image": "/dragon-quest-11.png",
+    "title": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+    "description": "「ドラゴンクエスト」シリーズ11番目となる本編最新作は、シリーズの原点に立ち返り「勇者」の冒険を描いた物語。",
+    "productionLink": "https://www.dq11.jp/",
+    "youtubeUrl": "https://www.youtube.com/embed/KdHYS2OWYW0?si=DWSEGhJ2yaffvN7f",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 6,
+    "image": "/mariokart-8.png",
+    "title": "マリオカート８ デラックス",
+    "description": "あらゆる場所がサーキットに！レース、バトル、すべてがデラックス。",
+    "productionLink": "https://www.nintendo.com/jp/switch/aabpa/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/HljJvwifETg?si=iaAFXeKgMoFSx2KZ",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 7,
+    "image": "/minecraft.png",
+    "title": "Minecraft(マインクラフト)",
+    "description": "自分だけの世界を探検し、夜を生き抜き、想像できるあらゆるものを作りましょう！",
+    "productionLink": "https://www.minecraft.net/ja-jp",
+    "youtubeUrl": "https://www.youtube.com/embed/o_poSzUJ5GQ?si=frj3nEoUxJlfIX7t",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 8,
+    "image": "/super-mario-3d-world-fury-world.png",
+    "title": "スーパーマリオ 3Dワールド + フューリーワールド",
+    "description": "走って、登って、ひっかいて。『スーパーマリオ 3Dワールド』が、新しい要素をプラスしてNintendo Switchに登場!",
+    "productionLink": "https://www.nintendo.com/jp/switch/auzpa/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/LuuGrTJxDVA?si=efcsKBk78RgPL_9A",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 9,
+    "image": "/dragon-quest-builders-2.png",
+    "title": "ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島",
+    "description": "世界をつくれ、運命をこわせ",
+    "productionLink": "http://www.dragonquest.jp/builders2/",
+    "youtubeUrl": "https://www.youtube.com/embed/8uqDP65wgDo?si=Pu9gb7ZM6qfWdKrb",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 10,
+    "image": "/fortnite.png",
+    "title": "Fortnite(フォートナイト)",
+    "description": "バトルロイヤル、クリエイティブ、世界を救え。",
+    "productionLink": "https://www.fortnite.com/",
+    "youtubeUrl": "https://www.youtube.com/embed/mrUfRHA0fos?si=jjBpSpdOoFBEXe5j",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 11,
+    "image": "/splatoon-3.png",
+    "title": "スプラトゥーン3",
+    "description": "大自然で！ 大都会で！ さらにひろがるナワバリバトル！",
+    "productionLink": "https://www.nintendo.com/jp/switch/av5ja/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/z0MZh-cUNiA?si=mo6w3fBwV5H6wFJa",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 12,
+    "image": "/witcher-3.png",
+    "title": "ウィッチャー3 ワイルドハント",
+    "description": "全てのRPGを凌駕する! RPGの歴史が変わる瞬間を体感せよ! ! ",
+    "productionLink": "https://www.spike-chunsoft.co.jp/witcher3/",
+    "youtubeUrl": "https://www.youtube.com/embed/WiaOg65BLmY?si=XcOupbgQ2bH5YknK",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 13,
+    "image": "/smash-brothers-special.png",
+    "title": "大乱闘スマッシュブラザーズ SPECIAL",
+    "description": "マリオやカービィなどおなじみのキャラクターたちが、お互いをふっとばし合う「スマブラ」の最新作！ ",
+    "productionLink": "https://www.smashbros.com/ja_JP/",
+    "youtubeUrl": "https://www.youtube.com/embed/MqhPRopjbGI?si=mRfPFtf6w3uMjO07",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 14,
+    "image": "/suika-game.png",
+    "title": "スイカゲーム",
+    "description": "フルーツがボックスから溢れないように、同じフルーツ同士をぶつけ合おう。フルーツ同士をぶつけると、フルーツの種類が変化していき、スイカを目指すと溢れにくいかも！？",
+    "productionLink": "https://www.aladdinx.jp/pages/suika-game",
+    "youtubeUrl": "https://www.youtube.com/embed/F5Kx3Uqybhk?si=1NOSZZ0MVsvjo_TK",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 15,
+    "image": "/super-mario-bros-wonder.png",
+    "title": "スーパーマリオブラザーズ ワンダー",
+    "description": "マリオたちが走って、とんで、パワーアップ。ワンダーな世界を冒険。",
+    "productionLink": "https://www.nintendo.com/jp/switch/aqmxa/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/8Be_MWsnTq8?si=xFQZz5OVSJvHQ4_a",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 16,
+    "image": "/futaride-nyanko-daisennsou.png",
+    "title": "ふたりで！にゃんこ大戦争",
+    "description": "あのにゃんこ大戦争がSwitchのゲーム「ふたりで!にゃんこ大戦争」となってリニューアル！今度のにゃんこはふたりで協力も対戦もプレイ可能！",
+    "productionLink": "https://battlecats.club/series/futaride/",
+    "youtubeUrl": "https://www.youtube.com/embed/ZwvfbY2IOog?si=e4TtP4GcpumSFkYY",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 17,
+    "image": "/vampire-survivors.png",
+    "title": "Vampire Survivors",
+    "description": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！",
+    "productionLink": "https://store-jp.nintendo.com/list/software/70010000059001.html",
+    "youtubeUrl": "https://www.youtube.com/embed/VzhPNyuWkW8?si=pIpavBpOeNcLtusB",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 18,
+    "image": "/momotetsu-teiban.png",
+    "title": "桃太郎電鉄 ～昭和 平成 令和も定番！～",
+    "description": "サイコロをふって日本全国を駆け巡れ!定番すごろくゲーム桃太郎電鉄がNintendo Switchに登場!",
+    "productionLink": "https://www.konami.com/games/momotetsu/teiban/",
+    "youtubeUrl": "https://www.youtube.com/embed/6zheX3zX8DU?si=QN5AddFQteiP26Ct",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 19,
+    "image": "/brotato.png",
+    "title": "Brotato",
+    "description": "唯一の生存者Brotatoは、一度に6つの武器を扱えるポテト。周りに敵しかいない環境で、仲間に救出されるのを待ちながら、生き残らなければなりません。",
+    "productionLink": "https://store.steampowered.com/app/1942280/Brotato/?l=japanese",
+    "youtubeUrl": "https://www.youtube.com/embed/eLwpDvBq5Rc?si=e_jYDPoGYRZCs-YM",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 20,
+    "image": "/super-mario-bros-deluxe.png",
+    "title": "Newスーパー マリオ ブラザーズUデラックス",
+    "description": "いつでも、どこでも、誰とでも！",
+    "productionLink": "https://www.nintendo.com/jp/switch/adala/pc/index.html",
+    "youtubeUrl": "https://www.youtube.com/embed/BE_80ePKjfs?si=RWiBuD2VUh0CGr7k",
+    "x": 0,
+    "y": 0
+  }
+]
