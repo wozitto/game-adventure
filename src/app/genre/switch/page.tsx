@@ -56,7 +56,7 @@ export default function SwitchPage() {
         <GameJacket key={game.id} game={game} />
       ))}
       {obstacles.map((obstacle) => (
-        <Obstacle key={obstacle.id} obstacle={obstacle} />
+        <Obstacle key={obstacle.id} type="fire" obstacle={obstacle} />
       ))}
       <CharacterComponent character={character} direction={direction} />
       <HealthBar health={health} maxHealth={100} />

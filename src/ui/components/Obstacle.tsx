@@ -1,3 +1,5 @@
+type Type = "fire" | "poison" | "thorn";
+
 type Obstacle = {
   id: number;
   width: number;
@@ -7,10 +9,17 @@ type Obstacle = {
 };
 
 type ObstacleProps = {
+  type: Type;
   obstacle: Obstacle;
 };
 
-export const Obstacle: React.FC<ObstacleProps> = ({ obstacle }) => {
+export const Obstacle: React.FC<ObstacleProps> = ({ type, obstacle }) => {
+  const backgroundImages: { [key in Type]: string } = {
+    fire: "/fire.png",
+    poison: "/poison.png",
+    thorn: "/thorn.png",
+  };
+
   return (
     <div
       style={{
@@ -19,7 +28,7 @@ export const Obstacle: React.FC<ObstacleProps> = ({ obstacle }) => {
         width: obstacle.width,
         height: obstacle.height,
         position: "absolute",
-        backgroundImage: "url('/fire.png')",
+        backgroundImage: `url('${backgroundImages[type]}')`,
         backgroundSize: "24px 24px",
         backgroundRepeat: "repeat",
       }}
