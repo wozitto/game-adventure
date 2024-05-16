@@ -153,7 +153,7 @@ export const useGamePage = (initialGames: Game[]) => {
         );
 
         if (hitObstacle) {
-          setHealth((prevHealth) => Math.max(prevHealth - 7.5, 0));
+          setHealth((prevHealth) => Math.max(prevHealth - 5, 0));
           triggerDamageAnimation();
         }
 
