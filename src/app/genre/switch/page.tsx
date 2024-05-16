@@ -36,7 +36,7 @@ export default function SwitchPage() {
   return (
     <div
       id="gameContainer"
-      className="relative w-full container bg-green-300"
+      className="relative w-full container bg-gradient-to-b from-green-200 via-green-300 to-blue-300"
       style={{
         height: `${containerHeight}px`,
       }}
