@@ -132,7 +132,7 @@ export const useGamePage = (initialGames: Game[]) => {
         setHealth((prevHealth) => Math.max(prevHealth - 2.5, 0));
 
         if (hitGame) {
-          setHealth((prevHealth) => Math.min(prevHealth + 30, 100));
+          setHealth((prevHealth) => Math.min(prevHealth + 15, 100));
           setSelectedGame(null);
           setSelectedGame(hitGame);
           setIsDialogOpen(true);
