@@ -129,17 +129,17 @@ export const useGamePage = (initialGames: Game[]) => {
           setDirection("right");
         }
 
-        setHealth((prevHealth) => Math.max(prevHealth - 2.5, 0));
+        setHealth((prevHealth) => Math.max(prevHealth - 5, 0));
 
         if (hitGame) {
-          setHealth((prevHealth) => Math.min(prevHealth + 15, 100));
+          setHealth((prevHealth) => Math.min(prevHealth + 30, 100));
           setSelectedGame(null);
           setSelectedGame(hitGame);
           setIsDialogOpen(true);
           setRemainingGames(
             remainingGames.filter((game) => game.id !== hitGame.id),
           );
-          setScore((prevScore) => prevScore + 100);
+          setScore((prevScore) => prevScore + 200);
           triggerHealAnimation();
         }
 
@@ -153,7 +153,7 @@ export const useGamePage = (initialGames: Game[]) => {
         );
 
         if (hitObstacle) {
-          setHealth((prevHealth) => Math.max(prevHealth - 5, 0));
+          setHealth((prevHealth) => Math.max(prevHealth - 10, 0));
           triggerDamageAnimation();
         }
 
