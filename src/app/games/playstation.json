@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "image": "/the-legend-of-zelda-tearkin.png",
-    "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
-    "description": "果てなき冒険は、大空へ広がる。本作は、広大なオープンワールドを舞台に繰り広げられるアクションアドベンチャー。",
-    "productionLink": "https://www.nintendo.com/jp/zelda/totk/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/-MEo1tGalr0?si=C4MKJQd3YwmZERst"
+    "image": "/street-fighter-6.png",
+    "title": "ストリートファイター6",
+    "description": "攻防一体の要となる「ドライブシステム」。効果的に技を発動して、派手な演出と爽快なバトルを体感せよ。",
+    "productionLink": "https://www.streetfighter.com/6/ja-jp",
+    "youtubeUrl": "https://www.youtube.com/embed/QX2lu0zlSXk?si=_xki8f7erk4HzGu9"
   },
   {
     "id": 2,
-    "image": "/the-legend-of-zelda-btow.png",
-    "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
-    "description": "この冒険には、「決められた道筋」というものは存在しません。すべてはあなたの判断、行動次第で、冒険の行く末が決まります。",
-    "productionLink": "https://www.nintendo.com/jp/zelda/botw/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/OMw-xmBEWuE?si=lGEY3s1y4qN62fn9"
+    "image": "/final-fantasy-12.png",
+    "title": "ファイナルファンタジーVII リバース",
+    "description": "世界中を熱狂させた日本発のロールプレイングゲーム 『ファイナルファンタジーVII』を 現代の技術で蘇らせるリメイクプロジェクト",
+    "productionLink": "https://www.jp.square-enix.com/ffvii_rebirth/",
+    "youtubeUrl": "https://www.youtube.com/embed/VW5M0fm4LfE?si=NpqS_byPAA0vKg4g"
   },
   {
     "id": 3,
-    "image": "/pokemon-scarlet.png",
-    "title": "ポケットモンスター スカーレット",
-    "description": "『ポケットモンスター スカーレット・バイオレット』では、オープンワールドで豊かに表現された世界を、自由に冒険することができます。",
-    "productionLink": "https://www.pokemon.co.jp/ex/sv/ja/",
-    "youtubeUrl": "https://www.youtube.com/embed/IKggN13crog?si=rAkdIyJKO2GSc0_V"
+    "image": "/final-fantasy-16.png",
+    "title": "ファイナルファンタジーXVI",
+    "description": "シリーズ初の本格アクションRPG。主人公クライヴのスタイリッシュなバトルアクションと、PS5の性能によって実現した超巨大スケールの召喚獣同士の激突を体感せよ!",
+    "productionLink": "https://jp.finalfantasyxvi.com/",
+    "youtubeUrl": "https://www.youtube.com/embed/bXWTtjwc7Ng?si=qgN8BgM_CcWunwOd"
   },
   {
     "id": 4,
-    "image": "/pokemon-violet.png",
-    "title": "ポケットモンスター バイオレット",
-    "description": "『ポケットモンスター スカーレット・バイオレット』では、オープンワールドで豊かに表現された世界を、自由に冒険することができます。",
-    "productionLink": "https://www.pokemon.co.jp/ex/sv/ja/",
-    "youtubeUrl": "https://www.youtube.com/embed/IKggN13crog?si=rAkdIyJKO2GSc0_V"
+    "image": "/spiderman-2.png",
+    "title": "Marvel's Spider-Man 2",
+    "description": "二人のスパイダーマン、ピーター・パーカーとマイルズ・モラレスが登場する大人気「Marvel's Spider-Man」シリーズが、新たな冒険と共に帰ってくる。",
+    "productionLink": "https://www.playstation.com/ja-jp/games/marvels-spider-man-2/",
+    "youtubeUrl": "https://www.youtube.com/embed/5xdToIDYIAQ?si=9DTikdBgErTropUi"
   },
   {
     "id": 5,
@@ -41,11 +41,11 @@
   },
   {
     "id": 6,
-    "image": "/mariokart-8.png",
-    "title": "マリオカート８ デラックス",
-    "description": "あらゆる場所がサーキットに！レース、バトル、すべてがデラックス。",
-    "productionLink": "https://www.nintendo.com/jp/switch/aabpa/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/HljJvwifETg?si=iaAFXeKgMoFSx2KZ"
+    "image": "/helldivers-2.png",
+    "title": "HELLDIVERS 2",
+    "description": "エリート兵士ヘルダイバーとなり、宇宙最大で最強、大爆発で敵を吹き飛ばす各種武器を使い、平和、自由、管理民主主義を広める任務を遂行しよう。",
+    "productionLink": "https://www.playstation.com/ja-jp/games/helldivers-2/",
+    "youtubeUrl": "https://www.youtube.com/embed/UEdxpCavufc?si=dOC1PLr-osYWv9tp"
   },
   {
     "id": 7,
@@ -53,23 +53,23 @@
     "title": "Minecraft(マインクラフト)",
     "description": "自分だけの世界を探検し、夜を生き抜き、想像できるあらゆるものを作りましょう！",
     "productionLink": "https://www.minecraft.net/ja-jp",
-    "youtubeUrl": "https://www.youtube.com/embed/o_poSzUJ5GQ?si=frj3nEoUxJlfIX7t"
+    "youtubeUrl": "https://www.youtube.com/embed/l6fu6hS4x4A?si=OP2Uk3ZUCFBhWAQJ"
   },
   {
     "id": 8,
-    "image": "/super-mario-3d-world-fury-world.png",
-    "title": "スーパーマリオ 3Dワールド + フューリーワールド",
-    "description": "走って、登って、ひっかいて。『スーパーマリオ 3Dワールド』が、新しい要素をプラスしてNintendo Switchに登場!",
-    "productionLink": "https://www.nintendo.com/jp/switch/auzpa/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/LuuGrTJxDVA?si=efcsKBk78RgPL_9A"
+    "image": "/persona-3-reload.png",
+    "title": "ペルソナ3 リロード",
+    "description": "とある事情で、港区の人工島ポートアイランドにある、月光館学園高等部へ編入することになった主人公の少年。 彼が学生寮に入居した数日後、謎の怪物の襲撃を受ける。",
+    "productionLink": "https://p3re.jp/",
+    "youtubeUrl": "https://www.youtube.com/embed/MhePWZ1CxbU?si=wcsNCt51nhc0RxD_"
   },
   {
     "id": 9,
-    "image": "/dragon-quest-builders-2.png",
-    "title": "ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島",
-    "description": "世界をつくれ、運命をこわせ",
-    "productionLink": "http://www.dragonquest.jp/builders2/",
-    "youtubeUrl": "https://www.youtube.com/embed/8uqDP65wgDo?si=Pu9gb7ZM6qfWdKrb"
+    "image": "/hogwarts-legacy.png",
+    "title": "ホグワーツ・レガシー",
+    "description": "キャラクターを操作して、魔法界を巡るあなただけの冒険を繰り広げましょう。",
+    "productionLink": "https://www.hogwartslegacy.com/ja-jp",
+    "youtubeUrl": "https://www.youtube.com/embed/F_rhpMO-kg4?si=J5V7lXcedLE4tnpR"
   },
   {
     "id": 10,
@@ -81,11 +81,11 @@
   },
   {
     "id": 11,
-    "image": "/splatoon-3.png",
-    "title": "スプラトゥーン3",
-    "description": "大自然で！ 大都会で！ さらにひろがるナワバリバトル！",
-    "productionLink": "https://www.nintendo.com/jp/switch/av5ja/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/z0MZh-cUNiA?si=mo6w3fBwV5H6wFJa"
+    "image": "/granblue-fantasy-relink.png",
+    "title": "グランブルーファンタジー Relink",
+    "description": "広大な青い空に島々が浮かぶ世界へと旅立とう。",
+    "productionLink": "https://www.playstation.com/ja-jp/games/granblue-fantasy-relink/",
+    "youtubeUrl": "https://www.youtube.com/embed/IhRv5h4Hrf4?si=NrWM-Kx8LRGQDXAO"
   },
   {
     "id": 12,
@@ -97,66 +97,66 @@
   },
   {
     "id": 13,
-    "image": "/smash-brothers-special.png",
-    "title": "大乱闘スマッシュブラザーズ SPECIAL",
-    "description": "マリオやカービィなどおなじみのキャラクターたちが、お互いをふっとばし合う「スマブラ」の最新作！ ",
-    "productionLink": "https://www.smashbros.com/ja_JP/",
-    "youtubeUrl": "https://www.youtube.com/embed/MqhPRopjbGI?si=mRfPFtf6w3uMjO07"
+    "image": "/persona-5-tactica.png",
+    "title": "ペルソナ5 タクティカ",
+    "description": "その心に焔を灯せ──。",
+    "productionLink": "https://p5t.jp/",
+    "youtubeUrl": "https://www.youtube.com/embed/P45S822T4eQ?si=ZIPda774Z4ZYQMgC"
   },
   {
     "id": 14,
-    "image": "/suika-game.png",
-    "title": "スイカゲーム",
-    "description": "フルーツがボックスから溢れないように、同じフルーツ同士をぶつけ合おう。フルーツ同士をぶつけると、フルーツの種類が変化していき、スイカを目指すと溢れにくいかも！？",
-    "productionLink": "https://www.aladdinx.jp/pages/suika-game",
-    "youtubeUrl": "https://www.youtube.com/embed/F5Kx3Uqybhk?si=1NOSZZ0MVsvjo_TK"
+    "image": "/octopath-traveler-2.png",
+    "title": "オクトパストラベラーII",
+    "description": "旅立とう、君だけの物語へ──",
+    "productionLink": "https://www.jp.square-enix.com/octopathtraveler2/",
+    "youtubeUrl": "https://www.youtube.com/embed/Lly5iEcLx5U?si=LdRYTfFa1HSRfh2J"
   },
   {
     "id": 15,
-    "image": "/super-mario-bros-wonder.png",
-    "title": "スーパーマリオブラザーズ ワンダー",
-    "description": "マリオたちが走って、とんで、パワーアップ。ワンダーな世界を冒険。",
-    "productionLink": "https://www.nintendo.com/jp/switch/aqmxa/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/8Be_MWsnTq8?si=xFQZz5OVSJvHQ4_a"
+    "image": "/fc-24.png",
+    "title": "EA SPORTS FC 24",
+    "description": "3つのテクノロジーによってすべての試合をリアルに再現。今までにない本格的なサッカー体験をお届けします。",
+    "productionLink": "https://www.ea.com/ja-jp/games/ea-sports-fc/fc-24",
+    "youtubeUrl": "https://www.youtube.com/embed/cbJ_zpScyiw?si=c5p5kKiOYCcNEY6H"
   },
   {
     "id": 16,
-    "image": "/futaride-nyanko-daisennsou.png",
-    "title": "ふたりで！にゃんこ大戦争",
-    "description": "あのにゃんこ大戦争がSwitchのゲーム「ふたりで!にゃんこ大戦争」となってリニューアル！今度のにゃんこはふたりで協力も対戦もプレイ可能！",
-    "productionLink": "https://battlecats.club/series/futaride/",
-    "youtubeUrl": "https://www.youtube.com/embed/ZwvfbY2IOog?si=e4TtP4GcpumSFkYY"
+    "image": "/avatar-fop.png",
+    "title": "アバター：フロンティア・オブ・パンドラ",
+    "description": "まだ誰も見たことのないパンドラの西部辺境を舞台とするオープンワールドの一人称視点アクションアドベンチャーゲーム。",
+    "productionLink": "https://www.playstation.com/ja-jp/games/avatar-frontiers-of-pandora/",
+    "youtubeUrl": "https://www.youtube.com/embed/VD-v0ZR9WzU?si=96e5gM1p8H_48lPh"
   },
   {
     "id": 17,
-    "image": "/vampire-survivors.png",
-    "title": "Vampire Survivors",
-    "description": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！",
-    "productionLink": "https://store-jp.nintendo.com/list/software/70010000059001.html",
-    "youtubeUrl": "https://www.youtube.com/embed/VzhPNyuWkW8?si=pIpavBpOeNcLtusB"
+    "image": "/fate-samurai-remnant.png",
+    "title": "Fate/Samurai Remnant",
+    "description": "「きみの願いを、斬り捨てる。」これは江戸を駆ける、聖杯戦争。",
+    "productionLink": "https://www.gamecity.ne.jp/fate-sr/",
+    "youtubeUrl": "https://www.youtube.com/embed/jHHzPcFwRFY?si=yOgnjMxjjvbeHy2_"
   },
   {
     "id": 18,
-    "image": "/momotetsu-teiban.png",
-    "title": "桃太郎電鉄 ～昭和 平成 令和も定番！～",
-    "description": "サイコロをふって日本全国を駆け巡れ!定番すごろくゲーム桃太郎電鉄がNintendo Switchに登場!",
-    "productionLink": "https://www.konami.com/games/momotetsu/teiban/",
-    "youtubeUrl": "https://www.youtube.com/embed/6zheX3zX8DU?si=QN5AddFQteiP26Ct"
+    "image": "/naruto-x-boruto.png",
+    "title": "NARUTO X BORUTO ナルティメットストームコネクションズ",
+    "description": "本作では、少年篇から最終決戦までの見どころを選りすぐって収録。ふたりの忍道を追体験いただけます。",
+    "productionLink": "https://naruto-game-sc.bn-ent.net/",
+    "youtubeUrl": "https://www.youtube.com/embed/yzy5nvM-fmc?si=yETyKKsycUWwgIO9"
   },
   {
     "id": 19,
-    "image": "/brotato.png",
-    "title": "Brotato",
-    "description": "唯一の生存者Brotatoは、一度に6つの武器を扱えるポテト。周りに敵しかいない環境で、仲間に救出されるのを待ちながら、生き残らなければなりません。",
-    "productionLink": "https://store.steampowered.com/app/1942280/Brotato/?l=japanese",
-    "youtubeUrl": "https://www.youtube.com/embed/eLwpDvBq5Rc?si=e_jYDPoGYRZCs-YM"
+    "image": "/onepiece-odyssey.png",
+    "title": "ワンピース オデッセイ",
+    "description": "いざ、思い出の真っ只中へ",
+    "productionLink": "https://opflag.bn-ent.net/",
+    "youtubeUrl": "https://www.youtube.com/embed/sDsbzjY_pJM?si=9dnp_D87Duk2Q7ZA"
   },
   {
     "id": 20,
-    "image": "/super-mario-bros-deluxe.png",
-    "title": "Newスーパー マリオ ブラザーズUデラックス",
-    "description": "いつでも、どこでも、誰とでも！",
-    "productionLink": "https://www.nintendo.com/jp/switch/adala/pc/index.html",
-    "youtubeUrl": "https://www.youtube.com/embed/BE_80ePKjfs?si=RWiBuD2VUh0CGr7k"
+    "image": "/sonic-superstars.png",
+    "title": "ソニックスーパースターズ",
+    "description": "仲間たちといっしょに大冒険！爽快ハイスピードアクション！ 「ソニック」が進化して登場！ ",
+    "productionLink": "https://sonic.sega.jp/SonicSuperStars/",
+    "youtubeUrl": "https://www.youtube.com/embed/XUCblq77Too?si=jKybJkB19bk82LdD"
   }
 ]
