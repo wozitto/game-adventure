@@ -36,9 +36,12 @@ export default function PlaystationPage() {
   return (
     <div
       id="gameContainer"
-      className="relative w-full container bg-gradient-to-b from-yellow-700 to-gray-900"
+      className="relative w-full container"
       style={{
         height: `${containerHeight}px`,
+        backgroundImage: "url('/numa.png')",
+        backgroundRepeat: "repeat",
+        backgroundSize: "50px 50px",
       }}
     >
       <IntroDialog
