@@ -36,9 +36,12 @@ export default function SwitchPage() {
   return (
     <div
       id="gameContainer"
-      className="relative w-full container bg-gradient-to-b from-green-200 via-green-300 to-blue-300"
+      className="relative w-full container"
       style={{
         height: `${containerHeight}px`,
+        backgroundImage: "url('/sogen.png')",
+        backgroundRepeat: "repeat",
+        backgroundSize: "50px 50px",
       }}
     >
       <IntroDialog
