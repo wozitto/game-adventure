@@ -69,16 +69,16 @@ export default function Home() {
             <CardHeader>
               <CardTitle>スマホアプリ</CardTitle>
               <CardDescription>
-                大都会の中で、鋭いトゲが待ち構える危ない道を、気をつけて歩いていこう！そして、隠れているゲームを見つけられるように、よく探そう！
+                人がいなくなってしまった都会の中で、爆発物が散らばる危険な道を慎重に進もう！そして、隠れているゲームを見つけられるように、よく探そう！
               </CardDescription>
             </CardHeader>
             <CardContent className="flex justify-end">
-              {/* <Link
+              <Link
                 className="inline-flex items-center justify-center gap-2 rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white shadow-md hover:bg-blue-700 transition dark:bg-blue-500 dark:text-gray-900"
-                href="/genre/app"
+                href="/genre/mobile"
               >
                 冒険する
-              </Link> */}
+              </Link>
             </CardContent>
           </Card>
         </div>

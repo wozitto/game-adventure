@@ -1,4 +1,4 @@
-type Type = "fire" | "poison" | "thorn";
+type Type = "fire" | "poison" | "bomb";
 
 type Obstacle = {
   id: number;
@@ -17,7 +17,7 @@ export const Obstacle: React.FC<ObstacleProps> = ({ type, obstacle }) => {
   const backgroundImages: { [key in Type]: string } = {
     fire: "/fire.png",
     poison: "/poison.png",
-    thorn: "/thorn.png",
+    bomb: "/bomb.png",
   };
 
   return (

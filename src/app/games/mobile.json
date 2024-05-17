@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "image": "/coffee-inc-2.png",
+    "title": "Coffee Inc 2",
+    "description": "コーヒーインクの最新版がパワーアップして待望のリリースです。コーヒービジネスはより現実的に、そして複雑になり、実在の世界都市空間で展開できます。",
+    "productionLink": "https://apps.apple.com/jp/app/coffee-inc-2/id1573482724",
+    "youtubeUrl": "https://www.youtube.com/embed/jDpbvKrqM5I?si=1w_Zb7hFqBID_UnB"
+  },
+  {
+    "id": 2,
+    "image": "/pokemon-sleep.png",
+    "title": "Pokémon Sleep",
+    "description": "朝起きるのが楽しみになる睡眠ゲームアプリ",
+    "productionLink": "https://apps.apple.com/jp/app/pok%C3%A9mon-sleep/id1579464667",
+    "youtubeUrl": "https://www.youtube.com/embed/kCLv7_XY9ds?si=1sbObOUMtElin6-g"
+  },
+  {
+    "id": 3,
+    "image": "/mariokart-tour.png",
+    "title": "マリオカート ツアー",
+    "description": "世界を旅するマリオカートマリオたちが世界の都市をテーマにしたコースを駆けめぐる、新しいマリオカート！ 2週間ごとに開催されるツアーで世界を旅しましょう。",
+    "productionLink": "https://apps.apple.com/us/app/mario-kart-tour/id1293634699",
+    "youtubeUrl": "https://www.youtube.com/embed/oX9wcNH1q6E?si=uKnPC4uoEm7qeVdI"
+  },
+  {
+    "id": 4,
+    "image": "/doubutunomoti-pocketcamp.png",
+    "title": "どうぶつの森 ポケットキャンプ",
+    "description": "スマホで遊べるどうぶつの森. あなたは、キャンプ場の管理人。 どうぶつたちの集まるにぎやかなキャンプ場を作ります。 イベントも盛りだくさん。",
+    "productionLink": "https://itunes.apple.com/jp/app/id1179915619",
+    "youtubeUrl": "https://www.youtube.com/embed/hzOuwLH8YzI?si=0zKsmu6nBKGULI36"
+  },
+  {
+    "id": 5,
+    "image": "/fireemblem-heros.png",
+    "title": "ファイアーエムブレム ヒーローズ",
+    "description": "隠された意図、錯綜する情報。謀略うずまく戦いが今、幕を開ける。",
+    "productionLink": "https://itunes.apple.com/jp/app/id1181774280",
+    "youtubeUrl": "https://www.youtube.com/embed/KBVTbzChs6I?si=0qeuZzcuoZZkqN6v"
+  },
+  {
+    "id": 6,
+    "image": "/super-mario-run.png",
+    "title": "スーパーマリオ ラン",
+    "description": "片手であそぶ、新しいマリオ。",
+    "productionLink": "https://itunes.apple.com/jp/app/id1145275343",
+    "youtubeUrl": "https://www.youtube.com/embed/hDabKSqw9es?si=LweAS46apGnIBwEe"
+  },
+  {
+    "id": 7,
+    "image": "/minecraft.png",
+    "title": "Minecraft(マインクラフト)",
+    "description": "自分だけの世界を探検し、夜を生き抜き、想像できるあらゆるものを作りましょう！",
+    "productionLink": "https://apps.apple.com/jp/app/minecraft/id479516143",
+    "youtubeUrl": "https://www.youtube.com/embed/o_poSzUJ5GQ?si=frj3nEoUxJlfIX7t"
+  },
+  {
+    "id": 8,
+    "image": "/pikmin-bloom.png",
+    "title": "Pikmin Bloom",
+    "description": "歩くのが楽しくなるアプリ。 Pikmin Bloom があれば、ちょっとしたお散歩や毎日の通勤も、今日からはピクミンたちとの楽しいおでかけに。",
+    "productionLink": "https://apps.apple.com/app/id1556357398",
+    "youtubeUrl": "https://www.youtube.com/embed/oXr7i8ycP3k?si=d3g7kTyZ-bRYdiij"
+  },
+  {
+    "id": 9,
+    "image": "/efootball-2024.png",
+    "title": "eFootball 2024",
+    "description": "いつでも最新データで遊べる、アクションサッカーゲームの定番！ ",
+    "productionLink": "https://apps.apple.com/jp/app/efootball-2024/id1117270703",
+    "youtubeUrl": "https://www.youtube.com/embed/F3xMM9zAgj0?si=d86B83Uxu_5Qp1vb"
+  },
+  {
+    "id": 10,
+    "image": "/onepiece-treasure-cruise.png",
+    "title": "ONE PIECE トレジャークルーズ",
+    "description": "かんたんなタップ操作で大迫力バトルが楽しめる新感覚タップアクション！魅力的なキャラクターたちが、トレクルの中で暴れまわる！",
+    "productionLink": "https://apps.apple.com/jp/app/one-piece-%E3%83%88%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA/id824116884",
+    "youtubeUrl": "https://www.youtube.com/embed/e_R4jteRElY?si=DXqhzlFxWqIWU67k"
+  },
+  {
+    "id": 11,
+    "image": "/jyujyutukaisen.png",
+    "title": "呪術廻戦 ファントムパレード",
+    "description": "「呪術廻戦」の世界観を再現したコマンドバトル。仲間との連携を武器に強大な敵をその手で祓え。",
+    "productionLink": "https://apps.apple.com/jp/app/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89/id1551798277",
+    "youtubeUrl": "https://www.youtube.com/embed/pUa4XP9ywCk?si=Q5AAY4w8ea-CpdeL"
+  },
+  {
+    "id": 12,
+    "image": "/monsto.png",
+    "title": "モンスターストライク",
+    "description": "育てたモンスターを自分の指で引っ張って敵モンスターに当てて倒す新感覚アクションRPG!",
+    "productionLink": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF/id658511662",
+    "youtubeUrl": "https://www.youtube.com/embed/3shmXSNP1dU?si=Gz8E4AofxX9dkIOF"
+  },
+  {
+    "id": 13,
+    "image": "/tsumutsumu.png",
+    "title": "LINE:ディズニー ツムツム",
+    "description": "タイムアップまで、同じキャラクターのツムを3コ以上、なぞってつなげるだけ。 つなげた長さによってスコアが変わるから、できるだけ長くつなげて高得点を目指そう！",
+    "productionLink": "https://apps.apple.com/jp/app/line-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%83%84%E3%83%A0%E3%83%84%E3%83%A0/id724594093",
+    "youtubeUrl": "https://www.youtube.com/embed/YcFcEhdz3ww?si=cmMLq7iPU39qJmQJ"
+  },
+  {
+    "id": 14,
+    "image": "/punipuni.png",
+    "title": "妖怪ウォッチ ぷにぷに",
+    "description": "妖怪ぷにをたくさんつなげて、あの妖怪たちを倒しちゃおう！",
+    "productionLink": "https://apps.apple.com/jp/app/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81-%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB/id1032346221",
+    "youtubeUrl": "https://www.youtube.com/embed/fReC8Qyqgw4?si=3Qq36oc_Tg4JpRSA"
+  },
+  {
+    "id": 15,
+    "image": "/brosta.png",
+    "title": "ブロスタ",
+    "description": "白熱の3対3、そしてサバイバルマルチプレイを楽しめるモバイルゲーム!3分間で展開する様々なゲームモード… 友達と共闘するもよし、一人で戦うもよし。",
+    "productionLink": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%82%B9%E3%82%BF/id1229016807",
+    "youtubeUrl": "https://www.youtube.com/embed/Fik4Rp6S1Bs?si=vgbEKWt2AAkDnXLJ"
+  },
+  {
+    "id": 16,
+    "image": "/nyanko-daisennsou.png",
+    "title": "にゃんこ大戦争",
+    "description": "「キモかわにゃんこ」が日本を、未来を、宇宙の果てまで侵略中！",
+    "productionLink": "https://apps.apple.com/jp/app/%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E5%A4%A7%E6%88%A6%E4%BA%89/id547145938",
+    "youtubeUrl": "https://www.youtube.com/embed/lNQw2jeR2Hw?si=vANGllr5GcgXKnds"
+  },
+  {
+    "id": 17,
+    "image": "/pazdora.png",
+    "title": "パズル＆ドラゴンズ",
+    "description": "モンスターを育ててパズルでバトルする新感覚パズルRPG!",
+    "productionLink": "https://apps.apple.com/jp/app/%E3%83%91%E3%82%BA%E3%83%AB-%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA/id493470467",
+    "youtubeUrl": "https://www.youtube.com/embed/cAa_Io0DSJs?si=wuQen6D9pD4LnQmr"
+  },
+  {
+    "id": 18,
+    "image": "/pokemon-go.png",
+    "title": "Pokémon GO",
+    "description": "位置情報を活用することにより、現実世界そのものを舞台としてプレイするゲームです。",
+    "productionLink": "https://apps.apple.com/jp/app/pok%C3%A9mon-go/id1094591345",
+    "youtubeUrl": "https://www.youtube.com/embed/icWQFZKSIY0?si=vmZJgwGI1-Egslck"
+  },
+  {
+    "id": 19,
+    "image": "/fate-grandorder.png",
+    "title": "Fate/Grand Order",
+    "description": "TVでもおなじみ、TYPE-MOONがおくるFateのRPG!スマホでも本格的なRPGが楽しめる。",
+    "productionLink": "https://apps.apple.com/jp/app/fate-grand-order/id1015521325",
+    "youtubeUrl": "https://www.youtube.com/embed/L02aPFAhTCk?si=boMugBVXweG6Ei4y"
+  },
+  {
+    "id": 20,
+    "image": "/dragonball-dokkan.png",
+    "title": "ドラゴンボールZ ドッカンバトル",
+    "description": "気の玉をつないでぶっ放せ!かめはめ波!ドラゴンボールZの全てを凌駕する超絶バトル!",
+    "productionLink": "https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABz-%E3%83%89%E3%83%83%E3%82%AB%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB/id951627670",
+    "youtubeUrl": "https://www.youtube.com/embed/u1V_Ma7-Now?si=1cnyLJPb3c0nqtQW"
+  }
+]
