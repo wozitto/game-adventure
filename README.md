@@ -11,11 +11,3 @@
 ```bash
 docker-compose up --build
 ```
-
-### Development
-
-開発サーバーを起動するには、以下のコマンドを実行してください。
-
-```bash
-npm run dev
-```
