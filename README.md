@@ -2,7 +2,7 @@
 
 うまく障害物をよけながら、さまざまなゲームを集めるアドベンチャーゲームです。
 
-![ゲームのデモのスクリーンショット](./images/demo.png)
+<img src="./images/demo.png" alt="ゲームのデモのスクリーンショット" height="400">
 
 ## Getting Started
 
