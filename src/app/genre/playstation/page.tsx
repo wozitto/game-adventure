@@ -36,7 +36,7 @@ export default function PlaystationPage() {
   return (
     <div
       id="gameContainer"
-      className="relative w-full container"
+      className="relative w-full"
       style={{
         height: `${containerHeight}px`,
         backgroundImage: "url('/numa.png')",

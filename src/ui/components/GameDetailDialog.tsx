@@ -18,9 +18,9 @@ export const GameDetailDialog: React.FC<GameDetailDialogProps> = ({
 
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-10">
-      <div className="bg-white p-6 w-11/12 rounded-lg">
+      <div className="bg-white p-6 w-11/12 h-4/5 rounded-lg relative">
         <iframe
-          className="w-full h-64 mb-4"
+          className="w-full h-3/5 md:h-4/5 mb-4"
           src={gameDetail.youtubeUrl}
           title={gameDetail.title}
           allowFullScreen
@@ -34,7 +34,7 @@ export const GameDetailDialog: React.FC<GameDetailDialogProps> = ({
         >
           ゲームの詳細ページに移動
         </Link>
-        <div className="flex justify-end mt-4 gap-4">
+        <div className="absolute bottom-0 left-0 w-full p-4 bg-white flex justify-end gap-4 rounded-b-lg">
           <button
             className="bg-gray-500 text-white px-4 py-2 rounded"
             onClick={onQuit}
